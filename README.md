@@ -15,7 +15,7 @@ I’ve been passionate about web development since I was 12 when I first started
 I enjoy coding, staying up-to-date with new tech trends, and writing clean, efficient code that follows industry standards and best practices. I take pride in doing my work well and being someone people can rely on.
 
 ## 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)]([https://github.com/yunwei37](https://www.linkedin.com/in/deniss-dubinin/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/deniss-dubinin)
 
 ## Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
