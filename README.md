@@ -4,8 +4,8 @@
 Hi, I'm Deniss, a passionate learner and software developer from Hangzhou, China. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on [**FINEYO**](https://fineyo.app/) - Budget Manager and Expense Tracker for iOS
-- 📑 My first CMS i have used was UCOZ, i later migrated to DLE
-- 🎉 At 16 I launched a website with 30,000 unique visitors per day.
+- 📑 The first CMS I used was UCOZ hosting with built-in CMS, a few years later I migrated to self-hosted DLE
+- 🎉 At 16 I launched a website with 30,000 unique visitors per day
 - 🐈 I love cats
 
 ## 🙋‍♂️ A bit more about me
