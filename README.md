@@ -1,16 +1,16 @@
 
 # About Me
 
-Hi, I'm Deniss, a passionate learner and software developer from Hangzhou, China. Welcome to my GitHub profile!
+Hi, I'm Deniss, a passionate learner and software developer from Riga, Latvia. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on [**FINEYO**](https://fineyo.app/) - Budget Manager and Expense Tracker for iOS
-- 📑 The first CMS I used was UCOZ hosting with built-in CMS, a few years later I migrated to self-hosted DLE
+- 📑 The first CMS I used was UCOZ hosting with built-in CMS, a few years later, I migrated to self-hosted DLE
 - 🎉 At 16 I launched a website with 30,000 unique visitors per day
 - 🐈 I love cats
 
 ## 🙋‍♂️ A bit more about me
 
-I’ve been passionate about web development since I was 12 when I first started exploring various free CMSs. Initially drawn to frontend development, I later discovered my love for backend development, which I found equally fascinating. Through self-education, I launched my first standalone website at 13 and later started a small agency specializing in custom designs and solutions for a prominent web platform. Over the years, I’ve worked on a variety of projects including music platforms, news portals, large ecommerce stores, forums, mobile applications, and SaaS products.
+I’ve been passionate about web development since I was 12, when I first started exploring various free CMSs. Initially drawn to frontend development, I later discovered my love for backend development, which I found equally fascinating. Through self-education, I launched my first standalone website at 13 and later started a small agency specializing in custom designs and solutions for a prominent web platform. Over the years, I’ve worked on a variety of projects, including music platforms, news portals, large ecommerce stores, forums, mobile applications, and SaaS products.
 
 I enjoy coding, staying up-to-date with new tech trends, and writing clean, efficient code that follows industry standards and best practices. I take pride in doing my work well and being someone people can rely on.
 
